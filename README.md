@@ -20,9 +20,11 @@ code hello-pico
 
 4. Installe les extensions recommandées
 
-## Execution
+## Tester
 
-Pour executer ouvre le fichier hello.p8 puis utilise `⌘+⇧+P` et choisi `Run a pico8 file`.
+Pour executer ouvre un des fichiers .p8 puis utilise `⌘+⇧+P` et choisi `Run a pico8 file`.
+
+![preview](preview.gif)
 
 ## Resources
 
